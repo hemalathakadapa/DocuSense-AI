@@ -1,0 +1,15 @@
+# Ignore environment variables file (contains API Key)
+.env
+
+# Ignore python virtual environment folder
+venv/
+.venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+streamlit
+pillow
+protobuf==4.25.3
+streamlit-paste-button
+langchain-google-genai
+langchain-chroma
+langchain-core
+python-dotenv
